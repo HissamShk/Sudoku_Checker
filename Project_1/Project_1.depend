@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1535927708 source:c:\users\roo\desktop\fall 2018\csci 301\projects\project_1\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
+1536242996 source:c:\users\roo\desktop\fall 2018\csci 301\projects\csci_301_prj_1\project_1\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
+1536239396 source:c:\users\roo\desktop\past semesters\fall 2018\csci 301\projects\csci_301_prj_1\project_1\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
